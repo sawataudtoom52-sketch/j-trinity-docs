@@ -1,11 +1,14 @@
 ---
-title: PART I
-description: J-TRINITY learning content section.
+title: "Part I - Foundational Doctrine"
+sidebar_label: "Part I - Foundations"
+pagination_label: "Part I - Foundations"
+description: "Foundational doctrine covering genesis state, human finality, and core learning principles."
 tags:
   - j-trinity
-  - learning
+  - doctrine
+  - foundations
+  - human-final
 ---
-
 > **Scope:** Educational documentation only. SIMULATION_ONLY / ADVISORY_ONLY / HUMAN_FINAL.
 
 # PART I

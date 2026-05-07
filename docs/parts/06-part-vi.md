@@ -1,11 +1,14 @@
 ---
-title: PART VI
-description: J-TRINITY learning content section.
+title: "Part VI - Build and Expansion Study"
+sidebar_label: "Part VI - Build Study"
+pagination_label: "Part VI - Build Study"
+description: "Build and expansion study notes preserved as educational doctrine content."
 tags:
   - j-trinity
-  - learning
+  - build-study
+  - reference
+  - simulation-only
 ---
-
 > **Scope:** Educational documentation only. SIMULATION_ONLY / ADVISORY_ONLY / HUMAN_FINAL.
 
 # PART VI

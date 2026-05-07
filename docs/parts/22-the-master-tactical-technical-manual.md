@@ -1,16 +1,19 @@
 ---
-title: THE MASTER TACTICAL & TECHNICAL MANUAL
-description: J-TRINITY learning content section.
+title: "Appendix - Reference and AAR"
+sidebar_label: "Appendix - Reference and AAR"
+pagination_label: "Appendix - Reference and AAR"
+description: "Reference appendix for glossary-like doctrine terms, AAR concepts, and educational boundaries."
 tags:
   - j-trinity
-  - learning
+  - appendix
+  - reference
+  - aar
 ---
-
 > **Scope:** Educational documentation only. SIMULATION_ONLY / ADVISORY_ONLY / HUMAN_FINAL.
 
-## THE MASTER TACTICAL & TECHNICAL MANUAL
+# THE MASTER TACTICAL & TECHNICAL MANUAL
 
-# J-TRINITY C4ISR
+## J-TRINITY C4ISR
 
 ภาคผนวก (APPENDIX)
 

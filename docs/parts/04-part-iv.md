@@ -1,11 +1,14 @@
 ---
-title: PART IV
-description: J-TRINITY learning content section.
+title: "Part IV - Guardian Doctrine"
+sidebar_label: "Part IV - Guardian Doctrine"
+pagination_label: "Part IV - Guardian Doctrine"
+description: "Guardian doctrine for educational safety boundaries and human-led review."
 tags:
   - j-trinity
-  - learning
+  - guardian
+  - safety-boundaries
+  - human-final
 ---
-
 > **Scope:** Educational documentation only. SIMULATION_ONLY / ADVISORY_ONLY / HUMAN_FINAL.
 
 # PART IV

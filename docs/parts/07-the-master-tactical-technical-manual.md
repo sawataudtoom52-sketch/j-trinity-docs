@@ -1,13 +1,15 @@
 ---
-title: THE MASTER TACTICAL & TECHNICAL MANUAL
-description: J-TRINITY learning content section.
+title: "Section Preface - Foundations"
+sidebar_label: "Preface - Foundations"
+pagination_label: "Preface - Foundations"
+description: "Repeated source preface introducing the foundations section of the doctrine."
 tags:
   - j-trinity
-  - learning
+  - preface
+  - foundations
 ---
-
 > **Scope:** Educational documentation only. SIMULATION_ONLY / ADVISORY_ONLY / HUMAN_FINAL.
 
-## THE MASTER TACTICAL & TECHNICAL MANUAL
+# THE MASTER TACTICAL & TECHNICAL MANUAL
 
-# J-TRINITY C4ISR
+## J-TRINITY C4ISR

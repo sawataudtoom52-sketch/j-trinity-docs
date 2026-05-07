@@ -1,13 +1,15 @@
 ---
-title: THE MASTER TACTICAL & TECHNICAL MANUAL
-description: J-TRINITY learning content section.
+title: "Section Preface - Architecture"
+sidebar_label: "Preface - Architecture"
+pagination_label: "Preface - Architecture"
+description: "Repeated source preface introducing the architecture section of the doctrine."
 tags:
   - j-trinity
-  - learning
+  - preface
+  - architecture
 ---
-
 > **Scope:** Educational documentation only. SIMULATION_ONLY / ADVISORY_ONLY / HUMAN_FINAL.
 
-## THE MASTER TACTICAL & TECHNICAL MANUAL
+# THE MASTER TACTICAL & TECHNICAL MANUAL
 
-# J-TRINITY C4ISR
+## J-TRINITY C4ISR

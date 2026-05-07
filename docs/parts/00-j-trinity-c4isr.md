@@ -1,11 +1,14 @@
 ---
-title: J-TRINITY C4ISR
-description: J-TRINITY learning content section.
+title: "J-TRINITY C4ISR"
+sidebar_label: "J-TRINITY C4ISR"
+pagination_label: "J-TRINITY C4ISR"
+description: "Master reference entry point for the J-TRINITY C4ISR educational doctrine library."
 tags:
   - j-trinity
-  - learning
+  - doctrine
+  - overview
+  - simulation-only
 ---
-
 > **Scope:** Educational documentation only. SIMULATION_ONLY / ADVISORY_ONLY / HUMAN_FINAL.
 
 # J-TRINITY C4ISR

@@ -1,11 +1,14 @@
 ---
-title: PART III
-description: J-TRINITY learning content section.
+title: "Part III - Event Truth Engineering"
+sidebar_label: "Part III - Event Truth"
+pagination_label: "Part III - Event Truth"
+description: "Doctrine section on event sourcing, immutable timelines, and truth preservation."
 tags:
   - j-trinity
-  - learning
+  - technical-doctrine
+  - timeline
+  - simulation-only
 ---
-
 > **Scope:** Educational documentation only. SIMULATION_ONLY / ADVISORY_ONLY / HUMAN_FINAL.
 
 # PART III

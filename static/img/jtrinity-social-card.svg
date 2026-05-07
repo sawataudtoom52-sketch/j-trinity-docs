@@ -1,0 +1,7 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#08110d"/>
+  <rect x="56" y="56" width="1088" height="518" fill="none" stroke="#2e6b4e" stroke-width="2"/>
+  <text x="90" y="250" fill="#e5f2e8" font-family="Arial, sans-serif" font-size="82" font-weight="700">J-TRINITY C4ISR</text>
+  <text x="94" y="332" fill="#8fbf9a" font-family="Arial, sans-serif" font-size="34">Educational doctrine library</text>
+  <text x="94" y="452" fill="#d6a84f" font-family="Arial, sans-serif" font-size="28">SIMULATION_ONLY / ADVISORY_ONLY / HUMAN_FINAL</text>
+</svg>

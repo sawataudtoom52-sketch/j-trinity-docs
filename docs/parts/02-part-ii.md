@@ -1,11 +1,14 @@
 ---
-title: PART II
-description: J-TRINITY learning content section.
+title: "Part II - Agent Architecture"
+sidebar_label: "Part II - Agent Architecture"
+pagination_label: "Part II - Agent Architecture"
+description: "Conceptual architecture for JD, JM, JB, JG, and human review relationships."
 tags:
   - j-trinity
-  - learning
+  - architecture
+  - advisory-only
+  - human-final
 ---
-
 > **Scope:** Educational documentation only. SIMULATION_ONLY / ADVISORY_ONLY / HUMAN_FINAL.
 
 # PART II

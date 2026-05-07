@@ -1,11 +1,14 @@
 ---
-title: PART V
-description: J-TRINITY learning content section.
+title: "Part V - Operational Study"
+sidebar_label: "Part V - Operational Study"
+pagination_label: "Part V - Operational Study"
+description: "Educational operational-study doctrine for simulation-only analysis and AAR learning."
 tags:
   - j-trinity
-  - learning
+  - operational-study
+  - simulation-only
+  - advisory-only
 ---
-
 > **Scope:** Educational documentation only. SIMULATION_ONLY / ADVISORY_ONLY / HUMAN_FINAL.
 
 # PART V
